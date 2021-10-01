@@ -36,11 +36,11 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
+        Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
+
         Log.i("Entered Value", editText.getText().toString());
 
         Log.i("Random Number", Integer.toString(randomNumber));
-
-
 
     }
 
