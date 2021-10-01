@@ -63,7 +63,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginEnd="159dp"
         android:layout_marginRight="159dp"
-        android:onClick="guessNumber"
+        android:onClick="guess"
         android:text="Guess"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
